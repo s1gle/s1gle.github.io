@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-08-29 09:29:20 +0700
+title: Welcome to Jekyll!
+date: '2020-08-29 09:29:20 +0700'
 categories: jekyll update
 usemathjax: true
 ---
 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-
-Jekyll requires blog post files to be named according to the following format:
+Вы найдете этот пост в своем каталоге `_posts`. Продолжайте редактировать его и перестроить сайт, чтобы увидеть ваши изменения. Вы можете перестроить сайт разными способами, но наиболее распространенным способом является запуск `jekyll serve`, который запускает веб-сервер и автоматически восстанавливает ваш сайт при обновлении файла.
+Jekyll требует, чтобы файлы сообщений в блоге были названы в соответствии со следующим форматом:
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Где `YEAR` - это четырехзначное число, `MONTH` и `DAY` - это двузначные числа, а `MARKUP` - это расширение файла, представляющее формат, используемый в файле. После этого включите необходимую переднюю материю. Взгляните на источник для этого поста, чтобы получить представление о том, как это работает.
+Jekyll также предлагает мощную поддержку фрагментов кода:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -31,4 +28,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-
