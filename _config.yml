@@ -1,8 +1,7 @@
 # Site settings
 title: Storage # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  description. Описание сайта
 lang: ru-RU # default lang
 timezone: Moscow # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,8 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: s1gle # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    bio. Описание бла бла бла
   username: s1gle # general username
   github: s1gle # github username
   twitter:  # twitter username
@@ -39,7 +37,7 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   ignore:
-    - index.md
+    #- index.md
     #- _config.yml
     #- /_layouts
     #- /_includes
@@ -55,10 +53,10 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "Python"
+              value: "python"
+            - name: "JavaScript"
+              value: "js"
     _posts/static:
       - name: "layout"
         field:
@@ -132,4 +130,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
-  - jekyll-emoji
+  - emoji
