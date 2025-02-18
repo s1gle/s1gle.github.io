@@ -29,6 +29,10 @@ permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
+# (boolean) Enable "Edit with Prose.io" button in tools, it's a 3rd party
+# service to edit github markdown pages easily
+use_prose_io: true
+
 # Collection setting
 collections:
   posts:
