@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Список эмоджи
 date: 2025-02-18
 modified: 2025-02-18
