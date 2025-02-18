@@ -55,7 +55,6 @@
     }}"
   />
   <meta name="referrer" content="no-referrer-when-downgrade" />
-  <meta property="fb:app_id" content="{{ site.fb_appid }}" />
   <meta
     property="og:site_name"
     content="{% if page.title %}{{ page.title | escape }} | {{
@@ -70,10 +69,6 @@
   />
   {% if page.location %}
   <meta property="og:type" content="article" />
-  <meta
-    property="article:publisher"
-    content="https://web.facebook.com/{{ site.author.facebook }}"
-  />
   {% else %}
   <meta property="og:type" content="website" />
   {% endif %}
@@ -155,14 +150,6 @@
     href="/assets/favicons/safari-pinned-tab.svg"
     color="#5bbad5"
   />
-  <div>
-    Prose.io:
-    <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/new/{{site.git_branch | escape}}{{ site.site_root | default: '/' }}{{ site.wiki_folder }}">Add
-            new</a></span>
-    <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.git_branch | escape}}{{ site.site_root | default: '/' }}{{page.path | escape}}">Edit</a></span>
-    <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/new/{{site.git_branch | escape}}{{ site.site_root | default: '/' }}_posts/">Add
-            new post</a></span>
-  </div>
   <meta name="apple-mobile-web-app-title" content="Jekyll Klise" />
   <meta name="application-name" content="Jekyll Klise" />
   <meta name="msapplication-TileColor" content="#da532c" />
