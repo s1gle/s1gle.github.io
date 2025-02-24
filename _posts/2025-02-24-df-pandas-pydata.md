@@ -11,7 +11,8 @@ description: DataFrame pandas
 ---|---
 [T]|Транспонирование DataFrame
 [at]|Доступ к одному значению для пары меток строки/столбца
-
 ===
+---
+
 
 [Источник](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html#pandas.DataFrame)
