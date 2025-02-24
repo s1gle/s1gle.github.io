@@ -28,3 +28,20 @@ print(math.fsum(lst))
 12.0
 ```
 # Как умножить числа? :u7533:
+```python
+num1 = 5
+num2 = 10
+res = num1 * num2
+print(res)
+#result
+50
+```
+# Как разделить числа? :dizzy_face:
+```python
+num1 = 5
+num2 = 10
+res = num1 / num2
+print(res)
+#result
+0.5
+```
