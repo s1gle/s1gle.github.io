@@ -81,11 +81,10 @@ tags: [jekyll, github]
 :sunny: `:sunny:`  
 :umbrella: `:umbrella:`  
 :cloud: `:cloud:`  
-| :snowflake: `:snowflake:` |
-| :snowman: `:snowman:` |
-| :zap: `:zap:` |
-| :cyclone: `:cyclone:` |
-| :foggy: `:foggy:` |
+:snowflake: `:snowflake:`  :snowman: `:snowman:`  
+:zap: `:zap:`  
+:cyclone: `:cyclone:`  
+:foggy: `:foggy:`  
 | :ocean: `:ocean:` |
 | :cat: `:cat:` |
 | :dog: `:dog:` |
