@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Список эмоджи
-date: 2025-02-18
-modified: 2025-02-18
+date: 2025-02-18 11:00
+modified: 2025-02-18 12:01
 tags: [jekyll, github]
 ---
 People

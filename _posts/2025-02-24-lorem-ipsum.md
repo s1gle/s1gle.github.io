@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Lorem Ipsum
 date: 2025-02-24 11:34
 tags: [Lorem Ipsum]
