@@ -5,10 +5,11 @@ date: 2025-02-18 11:00
 modified: 2025-02-18 12:01
 tags: [jekyll, github]
 ---
-People
+## People
 <div class="overflow-table" markdown="block">
-| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+|1|2|3|
 |---|---|---|
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
@@ -73,24 +74,53 @@ People
 | :godmode: `:godmode:` | :hurtrealbad: `:hurtrealbad:` | :rage1: `:rage1:` |
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
+</div>
 
-Nature
+## Nature
 
-| :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
-|---|---|---|
-| :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
-| :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
-| :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
-| :hamster: `:hamster:` | :rabbit: `:rabbit:` | :wolf: `:wolf:` |
-| :frog: `:frog:` | :tiger: `:tiger:` | :koala: `:koala:` |
-| :bear: `:bear:` | :pig: `:pig:` | :pig_nose: `:pig_nose:` |
-| :cow: `:cow:` | :boar: `:boar:` | :monkey_face: `:monkey_face:` |
-| :monkey: `:monkey:` | :horse: `:horse:` | :racehorse: `:racehorse:` |
-| :camel: `:camel:` | :sheep: `:sheep:` | :elephant: `:elephant:` |
-| :panda_face: `:panda_face:` | :snake: `:snake:` | :bird: `:bird:` |
-| :baby_chick: `:baby_chick:` | :hatched_chick: `:hatched_chick:` | :hatching_chick: `:hatching_chick:` |
-| :chicken: `:chicken:` | :penguin: `:penguin:` | :turtle: `:turtle:` |
-| :bug: `:bug:` | :honeybee: `:honeybee:` | :ant: `:ant:` |
+|img|tittle|
+|---|---|
+| :sunny: | `:sunny:` |
+| :umbrella: `:umbrella:` |
+| :cloud: `:cloud:` |
+| :snowflake: `:snowflake:` |
+| :snowman: `:snowman:` |
+| :zap: `:zap:` |
+| :cyclone: `:cyclone:` |
+| :foggy: `:foggy:` |
+| :ocean: `:ocean:` |
+| :cat: `:cat:` |
+| :dog: `:dog:` |
+| :mouse: `:mouse:` |
+| :hamster: `:hamster:` |
+| :rabbit: `:rabbit:` |
+| :wolf: `:wolf:` |
+| :frog: `:frog:` |
+| :tiger: `:tiger:` |
+| :koala: `:koala:` |
+| :bear: `:bear:` |
+| :pig: `:pig:` |
+| :pig_nose: `:pig_nose:` |
+| :cow: `:cow:` |
+| :boar: `:boar:` |
+| :monkey_face: `:monkey_face:` |
+| :monkey: `:monkey:` |
+| :horse: `:horse:` |
+| :racehorse: `:racehorse:` |
+| :camel: `:camel:` |
+| :sheep: `:sheep:` |
+| :elephant: `:elephant:` |
+| :panda_face: `:panda_face:` |
+| :snake: `:snake:` |
+| :bird: `:bird:` |
+| :baby_chick: `:baby_chick:` |
+| :hatched_chick: `:hatched_chick:` |
+| :hatching_chick: `:hatching_chick:` |
+| :chicken: `:chicken:` |
+| :penguin: `:penguin:` |
+| :turtle: `:turtle:` |
+| :bug: `:bug:` |
+| :honeybee: `:honeybee:` | :ant: `:ant:` |
 | :beetle: `:beetle:` | :snail: `:snail:` | :octopus: `:octopus:` |
 | :tropical_fish: `:tropical_fish:` | :fish: `:fish:` | :whale: `:whale:` |
 | :whale2: `:whale2:` | :dolphin: `:dolphin:` | :cow2: `:cow2:` |
@@ -316,4 +346,4 @@ Symbols
 | :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | :large_orange_diamond: `:large_orange_diamond:` |
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
-</div>
+
