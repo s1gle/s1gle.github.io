@@ -78,11 +78,9 @@ tags: [jekyll, github]
 
 ## Nature
 
-|img|tittle|
-|---|---|
-| :sunny: | `:sunny:` |
-| :umbrella: `:umbrella:` |
-| :cloud: `:cloud:` |
+:sunny: `:sunny:`  
+:umbrella: `:umbrella:`  
+:cloud: `:cloud:`  
 | :snowflake: `:snowflake:` |
 | :snowman: `:snowman:` |
 | :zap: `:zap:` |
