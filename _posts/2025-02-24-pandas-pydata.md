@@ -6,15 +6,17 @@ tags: [python, pandas]
 description: Документация по pandas
 ---
 ## :ghost: Представление данных
-<img src='../assets/img/01_table_dataframe.svg' alt='svg error' />
+<img src='../assets/img/01_table_dataframe.svg' alt='svg error' />  
 При работе с табличными данными, такими как данные, хранящиеся в электронных таблицах или базах данных, pandas — это правильный инструмент для вас. Панды помогут вам для изучения, очистки и обработки данных. В pandas таблица данных называется `DataFrame`.  
 
 
 ## :hourglass: Интеграция данных
-<img src='../assets/img/02_io_readwrite.svg' alt='svg error' />
+<img src='../assets/img/02_io_readwrite.svg' alt='svg error' />  
 Pandas поддерживает интеграцию со многими форматами файлов или источниками данных из коробки (csv, excel, sql, json, parquet, ...). Импорт данных из каждого из них Источники данных предоставляются функцией с префиксом `read_*`. Аналогичным образом методы используются для хранения данных `to_*`.
 
-
+## :hash: Функции
+<img src='../assets/img/03_subset_columns_rows.svg' alt='svg error' />  
+Выбор или фильтрация определенных строк и/или столбцов? Фильтрация данных по условию? Методы для нарезки, выбора и извлечения нужных вам данных доступны в pandas.
 ---
 
 [pandas.pydata.org](https://pandas.pydata.org/)
