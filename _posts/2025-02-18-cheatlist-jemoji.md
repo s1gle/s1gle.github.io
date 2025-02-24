@@ -192,8 +192,6 @@ tags: [jekyll, github]
 :volcano: `:volcano:`  
 :milky_way: `:milky_way:`  
 :partly_sunny: `:partly_sunny:`  
-:octocat: `:octocat:`  
-:squirrel: `:squirrel:`  
 
 Objects
 
