@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Электронные часы</title>
+<script>
+function displayTime() {
+    let element = document.getElementById("clock"); // Найти элемент с id="clock" 
+    let now = new Date();    // Получить текущее время
+    element.innerHTML = now.toLocaleTimeString(); // Отобразить время
+    setTimeout(displayTime, 1000);    // Вызывать функцию каждую секунду
+}
+window.onload = displayTime; // Начать отображение времени после загрузки документа
+
+</script>
+</head>
+<body>
+    <h1>Электронные часы</h1> 
+    <div id="clock"></div>
+    <button class="footer_item" href="" onclick="getRandomIntEmoji(0, 9)">run</button>
+    <div id="elem">...</div>
+    <script>
+        function getRandomIntEmoji(min, max) {
+          let arr = [":bowtie:",":smile:",":laughing:",":sunny:",":umbrella:",":cloud:",":snowflake:",":snowman:",":zap:",":cat:"]
+          let a = Math.floor(Math.random() * (max - min + 1)) + min;
+          let elem = document.querySelector('#elem');
+          elem.innerHTML = arr[a];
+        }
+        </script>
+</body>
+</html>
