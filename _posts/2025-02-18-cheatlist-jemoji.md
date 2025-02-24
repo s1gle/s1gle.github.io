@@ -7,7 +7,7 @@ tags: [jekyll, github]
 ---
 ## People
 <div class="overflow-table" markdown="block">
-|1|2|3|
+| 1 | 2 | 3 |
 |---|---|---|
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
