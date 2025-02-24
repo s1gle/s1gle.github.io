@@ -27,3 +27,4 @@ print(math.fsum(lst))
 #result
 12.0
 ```
+# Как умножить числа? :u7533:
