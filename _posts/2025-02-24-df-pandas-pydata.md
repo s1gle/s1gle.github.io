@@ -9,9 +9,9 @@ description: DataFrame pandas
 
 Атрибуты|
 ---|---
-[`T`]|Транспонирование DataFrame
-[`at`]|Доступ к одному значению для пары меток строки/столбца
+[[T]]|Транспонирование DataFrame
+[[at]]|Доступ к одному значению для пары меток строки/столбца
 
----
+===
 
 [Источник](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html#pandas.DataFrame)
