@@ -7,7 +7,7 @@ description: DataFrame pandas
 ---
 # :bomb: DataFrame
 ## Атрибуты :smile:
-|
+ | 
 ---|---
 [T]|Транспонирование DataFrame
 [at]|Доступ к одному значению для пары меток строки/столбца
