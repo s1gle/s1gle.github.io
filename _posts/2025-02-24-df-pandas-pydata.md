@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Датафрейм pandas
-date: 2025-02-24 14:21
+date: 2025-02-24 15:16
 tags: [python, pandas]
 description: DataFrame pandas
 ---
@@ -9,8 +9,8 @@ description: DataFrame pandas
 
 Атрибуты|
 ---|---
-[[T]]|Транспонирование DataFrame
-[[at]]|Доступ к одному значению для пары меток строки/столбца
+[T]|Транспонирование DataFrame
+[at]|Доступ к одному значению для пары меток строки/столбца
 
 ===
 
